@@ -10,7 +10,7 @@ class Person
 
   def job=(type)
     @job = type
-  end 
+  end
 
   def job
     @job
